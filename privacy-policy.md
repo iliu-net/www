@@ -26,7 +26,7 @@ title: Privacy Policy
 ---
 
 <h2>What is this Privacy Policy for?</h2>
-This privacy policy is for this website <a href="https://iliu.net/">https://iliu.net/</a> and its sub-domains and governs the privacy of its users who choose to use it.
+This privacy policy is for this website <a href="https://iliu.net/">https://iliu.net/</a>Â and its sub-domains and governs the privacy of its users who choose to use it.
 
 The policy sets out the different areas where user privacy is concerned and outlines the obligations &amp; requirements of the users, the website and website owners. Furthermore the way this website processes, stores and protects user data and information will also be detailed within this policy.
 <h2>The Website</h2>
