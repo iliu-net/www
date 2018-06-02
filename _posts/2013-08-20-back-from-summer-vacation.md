@@ -22,12 +22,13 @@ post_type: post
 post_mime_type: ""
 comment_count: "0"
 title: Back from Summer vacation
-...
 ---
 
-<p>Back from summer vacation.</p>
+Back from summer vacation.
 
-<p>This year we drove through France into Spain.  We stayed at Huesca, then we went to Barcelona and finally we spent a few days in Costa Brava (Tossa de Mar) before we drove back home.</p>
+This year we drove through France into Spain.  We stayed at Huesca,
+then we went to Barcelona and finally we spent a few days in Costa
+Brava (Tossa de Mar) before we drove back home.
 
-<p>All in all quite a relaxing vacation.</p>
+All in all quite a relaxing vacation.
 

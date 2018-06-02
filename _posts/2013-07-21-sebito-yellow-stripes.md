@@ -29,4 +29,4 @@ title: Sebito Yellow Stripes
 
 <p>His test was last Monday and he passed with flying colours.</p>
 
-<img src="https://familiu.sirv.com/1/files/2013/07/IMG_0241.jpg?scale.width=300&amp;scale.height=225" width="300" />
+<img src="{{ site.url }}/img/2013/IMG231.jpg" />

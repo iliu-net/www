@@ -25,8 +25,8 @@ title: 'Kalay: End-of-Year Mini Disco'
 ...
 ---
 
-<img src="https://familiu.sirv.com/1/files/2013/07/IMG_0213.jpg?scale.width=300&amp;scale.height=225" width="300" />
+<img src="{{ site.url }}/img/2013/IMG0213.jpg" />
 
 Last Wednesday Kalay had an end-of-year mini-disco party. So Kalay finished her Group-2 and next school year she is starting Group-3 where she will be learning to read and write.
 
-[youtube id="ol50Qsl6BXQ"]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ol50Qsl6BXQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

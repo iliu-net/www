@@ -22,11 +22,10 @@ post_type: post
 post_mime_type: ""
 comment_count: "0"
 title: Sebito moving forward with Swimming
-...
 ---
 
 So this weekend we found out that Sebito is moving forward with his swiming. Today was his last lesson at the Swim school in the <em>small pool</em>. Starting next week he moves to the big pool in Pijnacker.
 
 So as the last lesson, the instructors made the kids show off what they can do...
 
-[youtube id="gBTUaOdvN38"]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gBTUaOdvN38" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

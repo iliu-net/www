@@ -22,7 +22,6 @@ post_type: post
 post_mime_type: ""
 comment_count: "0"
 title: Summer Party at School
-...
 ---
 
 Today's was the Summer Party at the Kids' school.
@@ -31,7 +30,7 @@ Lots of fun and games.  There was a little show:
 
 <hr />
 
-http://www.youtube.com/watch?v=NSfuawMZ2p0&amp;w=320
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NSfuawMZ2p0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <hr />
 
