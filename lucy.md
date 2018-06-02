@@ -24,5 +24,5 @@ comment_count: "0"
 title: About Lucy
 ---
 
-<img src="{{ site.url }}/hardhat.jpg" />
+<img src="{{ site.url }}/img/hardhat.jpg" />
 
