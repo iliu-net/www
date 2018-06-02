@@ -27,6 +27,7 @@ title: Kalay's Tilburg Gymnastic competition
 
 This was a gymnastic competition on the 12th November.
 
-[youtube playlist="PLP2kcqQRT5LGY0Pc-PKR359JcbA-p4ViB"]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLP2kcqQRT5LGY0Pc-PKR359JcbA-p4ViB" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 
