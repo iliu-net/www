@@ -22,9 +22,9 @@ post_type: post
 post_mime_type: ""
 comment_count: "0"
 title: Moving to a new server
-...
 ---
 
 Moving to a new server (cloud based).
 
-<img src="https://familiu.sirv.com/1/files/2016/10/GE-2P-TON105-2.jpg?scale.width=200&scale.height=300" width="200" height=300" alt="ge-2p-ton105-2" class="alignnone size-medium s3_image-435" />
+![GE-2P-TON105-2-200x300]({{ site.url }}/img/2016/GE-2P-TON105-2-200x300.jpg)
+

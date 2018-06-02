@@ -22,7 +22,7 @@ post_type: post
 post_mime_type: ""
 comment_count: "0"
 title: Halloween
-...
 ---
 
-<img src="https://familiu.sirv.com/1/files/2016/10/14572948_10154708812933408_3538920168038979621_n.jpg?scale.width=291&amp;scale.height=300" width="291" />
+<img src="{{ sit.url }}/img/2016/14572948_10154708812933408_3538920168038979621_n.jpg" />
+
