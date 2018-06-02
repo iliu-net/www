@@ -1,8 +1,8 @@
 ---
-title: Home Page
+title: Welcome
 ---
 
-# Alejandro Liu
+# Family Web Site
 
 Keyboards are the way of the future...
 
