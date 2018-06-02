@@ -33,5 +33,6 @@ Kalay
 
 Sebito
 
-[youtube playlist="PLP2kcqQRT5LHTcqnfAdVCQCKbf1EaeQCo"]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLP2kcqQRT5LHTcqnfAdVCQCKbf1EaeQCo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
