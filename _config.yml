@@ -4,6 +4,10 @@ remote_theme: jekyll/minima
 title: Fam Liu Li
 description: Our Home in the Clouds...
 
+header_pages:
+  - about.md
+  - privacy-policy.md
+
 show_downloads: false
 
 #url: https://www.iliu.net/
