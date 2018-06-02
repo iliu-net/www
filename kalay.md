@@ -21,8 +21,7 @@ menu_order: "0"
 post_type: page
 post_mime_type: ""
 comment_count: "0"
-title: Kalay
-...
+title: About Kalay
 ---
 
 Kalay lives in The Hague.

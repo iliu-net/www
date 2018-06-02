@@ -21,8 +21,8 @@ menu_order: "0"
 post_type: page
 post_mime_type: ""
 comment_count: "0"
-title: Lucy
-...
+title: About Lucy
 ---
 
-<img src="https://familiu.sirv.com/1/files/2016/10/hardhat.jpg?scale.width=275&scale.height=183" width="275" height=183" class="alignnone size-full s3_image-440"  alt="hardhat" />
+<img src="{{ site.url }}/hardhat.jpg" />
+

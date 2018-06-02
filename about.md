@@ -26,7 +26,7 @@ title: About
 
 This is our family web site.
 
-![PA-2P-ALF391]({{ site.url }}/img/PA-2P-ALF391.jpg)
+![PA-2P-ALF391]({{ site.url }}/img/2013/PA-2P-ALF391.jpg)
 
 Go to our wedding web site:
 

@@ -21,11 +21,9 @@ menu_order: "0"
 post_type: page
 post_mime_type: ""
 comment_count: "0"
-title: Alejandro
-...
+title: About Alejandro
 ---
 
-<h2>About Alejandro...</h2>
 
 Alejandro was born in <a href="http://en.wikipedia.org/wiki/Peru">Peru</a> and now lives in <a href="http://www.denhaag.nl/en.htm">The Hague</a>. He works at <a href="http://www.t-systems.com/">T-Systems</a>.
 

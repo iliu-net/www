@@ -22,7 +22,6 @@ post_type: page
 post_mime_type: ""
 comment_count: "0"
 title: Privacy Policy
-...
 ---
 
 <h2>What is this Privacy Policy for?</h2>

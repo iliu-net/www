@@ -21,8 +21,7 @@ menu_order: "0"
 post_type: page
 post_mime_type: ""
 comment_count: "0"
-title: Sebito
-...
+title: About Sebito
 ---
 
 <p>Sebito lives in The Hague.</p>
