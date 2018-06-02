@@ -31,7 +31,7 @@ This is our family web site.
 Go to our wedding web site:
 
 * [English](https://wedding.iliu.net/index-en.html)
-* [Español](https://wedding.iliu.net/index-es.html)
+* [Espa&ntilde;ol](https://wedding.iliu.net/index-es.html)
 
 The family:
 
