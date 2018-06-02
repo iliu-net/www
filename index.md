@@ -2,7 +2,7 @@
 title: Welcome
 ---
 
-# Family Web Site
+![Under-construction]({{ site.url }}/img/hardhat.jpg)
 
-Keyboards are the way of the future...
+Welcome to our home in the clouds...
 
