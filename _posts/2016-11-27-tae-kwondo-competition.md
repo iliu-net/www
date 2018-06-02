@@ -29,7 +29,7 @@ So last weekend the kids had a small TKD competition.  Their club organized some
 
 Kalay
 
-[youtube playlist="PLP2kcqQRT5LFWSYVIAZcffoC5Ufq2WDhj"]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4rBO6E8Sdx0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Sebito
 
