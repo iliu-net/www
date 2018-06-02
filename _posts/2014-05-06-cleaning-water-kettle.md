@@ -22,9 +22,12 @@ post_type: post
 post_mime_type: ""
 comment_count: "0"
 title: Cleaning Water Kettle
-...
 ---
 
-Mix it 50/50 water and vinegar, bring it to a boil, shut it off and let it soak for 15 minutes or so. Yes, you will have to rinse it several times to get the vinegar smell out. If the 50/50 mix doesn't work, try it again full strength. 
+Mix it 50/50 water and vinegar, bring it to a boil, shut it off and
+let it soak for 15 minutes or so. Yes, you will have to rinse it
+several times to get the vinegar smell out. If the 50/50 mix doesn't
+work, try it again full strength.
 
-Optionally, afterwards put lemon juice (one part lemon 2 parts water) boil it again and empty. The smell is fine and it is super clean.
+Optionally, afterwards put lemon juice (one part lemon 2 parts water)
+boil it again and empty. The smell is fine and it is super clean.
