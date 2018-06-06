@@ -2,5 +2,8 @@
 
 [Family Web Site](https://www.iliu.net/)
 
+Theme links:
 
-Uses the [minima](https://github.com/jekyll/minima) theme.
+- [minima](https://github.com/jekyll/minima)
+- [fork](https://github.com/iliu-net/minima)
+
