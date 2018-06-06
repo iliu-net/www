@@ -25,22 +25,20 @@ title: Old PC games
 ...
 ---
 
-[markdown]
 I like to play old PC games.  It reminds of my younger years.  These web sites are sites worth
 checking out for the good old stuff:
 
 * [Abandonia](http://www.abandonia.com/)  
-  Abandonia is an index of abandonware, “dedicated to classic DOS games”.
+  Abandonia is an index of abandonware, "dedicated to classic DOS games".
 * [Abandonware DOS](http://www.abandonwaredos.com/)  
   Abandonware Dos is another abandonware site focusing on DOS games. It also features a selection of
   Windows titles.
 * [Classic DOS Games](https://www.classicdosgames.com/)  
   This site features a wide range of classic DOS games, previously unreleased titles, and
-  even some “modern” DOS titles.
+  even some "modern" DOS titles.
 * [Remain in Play](http://www.remaininplay.com/)  
   Another site that takes on a wider array of (also non-DOS) games is Remain In Play.
   This site refuses to take in abandonware and games that were free from the start. They only
   focus on commercial games that were deliberately released as freeware.
 
-[/markdown]
 
