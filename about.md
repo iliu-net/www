@@ -40,4 +40,4 @@ The family:
 * [Kalay](kalay)
 * [Lucy](lucy)
 
-See this on [github](https://github.com/iliu-inet/www).
+See this on [github](https://github.com/iliu-net/www).
