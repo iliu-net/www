@@ -35,7 +35,7 @@ shoes become firmly stuck to her feet and force her to dance non-stop,
 to the point where she almost dies from exhaustion and starvation.
 
 We can scoff at the little girl's foolishness, but, in real life, we
-often do the same thingâ"we chase after the things that we think will
+often do the same thing -- we chase after the things that we think will
 make us happy and don't realize that we're heading down a dangerous
 path.
 
