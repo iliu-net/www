@@ -100,7 +100,7 @@ evolve? Author Jodi Picoult summarized the importance of avoiding
 perfectionism perfectly: "You can edit a bad page, but you can't edit
 a blank page."
 
-# 6. Get organized.
+## 6. Get organized.
 
 People joke about new ideas being in short supply, but I think that
 the one resource that's really scarce is spare time. Do you know
