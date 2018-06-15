@@ -31,7 +31,7 @@ more smoothly. These are not to be confused with ways to maliciously
 manipulate others into getting what you want, but to simply improve
 overall communication and relationships with others.
 
-## 1. Look into someone?s eyes when you get a dissatisfactory answer
+## 1. Look into someone's eyes when you get a dissatisfactory answer
 
 Sometimes we don't like the answer to a question that we receive and
 sometimes we don't understand it. Instead of repeating the question or
