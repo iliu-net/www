@@ -22,10 +22,8 @@ post_type: post
 post_mime_type: ""
 comment_count: "0"
 title: Online Dutch Grammar Tutorial
-...
 ---
 
-<ul>
-	<li><a href="http://www.dutchgrammar.com/en/">Online Dutch Grammar Tutorial</a></li>
-</ul>
+*   [Online Dutch Grammar Tutorial](http://www.dutchgrammar.com/en/)
+
 This is an interesting on-line resource I found the other day

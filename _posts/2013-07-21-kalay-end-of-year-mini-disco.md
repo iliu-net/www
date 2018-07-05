@@ -25,7 +25,8 @@ title: 'Kalay: End-of-Year Mini Disco'
 ...
 ---
 
-<img src="{{ site.url }}/img/2013/IMG0213.jpg" />
+
+![IMG0213]({{ site.url }}/img/2013/IMG0213.jpg)
 
 Last Wednesday Kalay had an end-of-year mini-disco party. So Kalay finished her Group-2 and next school year she is starting Group-3 where she will be learning to read and write.
 

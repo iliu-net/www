@@ -24,14 +24,12 @@ comment_count: "0"
 title: Summer Party at School
 ---
 
-Today's was the Summer Party at the Kids' school.
+Today's was the Summer Party at the Kids' school. Lots of fun and games. There was a little show:
 
-Lots of fun and games.  There was a little show:
-
-<hr />
+* * *
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NSfuawMZ2p0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<hr />
+* * *
 
-My apologies for the low video quality.  This is the number that Kalay and her class performed.
+My apologies for the low video quality. This is the number that Kalay and her class performed.

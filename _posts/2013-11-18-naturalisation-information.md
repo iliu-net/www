@@ -22,11 +22,8 @@ post_type: post
 post_mime_type: ""
 comment_count: "0"
 title: Naturalisation information
-...
 ---
 
 A couple of links for Immigration and Naturalisation information:
-<ul>
-	
-	<li><a title="DUO Website" href="http://inburgeren.nl/" target="_blank">DUO</a></li>
-</ul>
+
+*   [DUO](http://inburgeren.nl/ "DUO Website")

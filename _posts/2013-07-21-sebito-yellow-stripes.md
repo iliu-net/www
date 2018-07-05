@@ -22,11 +22,10 @@ post_type: post
 post_mime_type: ""
 comment_count: "0"
 title: Sebito Yellow Stripes
-...
 ---
 
-<p>So Sebito managed to get his "Yellow-Stripe" in Taekwondo.</p>
+So Sebito managed to get his "Yellow-Stripe" in Taekwondo.
 
-<p>His test was last Monday and he passed with flying colours.</p>
+His test was last Monday and he passed with flying colours.
 
-<img src="{{ site.url }}/img/2013/IMG231.jpg" />
+![Stripes]({{ site.url }}/img/2013/IMG231.jpg)

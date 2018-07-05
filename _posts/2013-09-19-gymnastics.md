@@ -22,10 +22,9 @@ post_type: post
 post_mime_type: ""
 comment_count: "0"
 title: Gymnastics
-...
 ---
 
-<p>This is the Club that Kalay is in for Gymnastics:</p>
 
-<p><a href="http://donargym.nl/">Donar</a></p>
+This is the Club that Kalay is in for Gymnastics:
 
+[Donar](http://donargym.nl/)
